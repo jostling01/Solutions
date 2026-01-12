@@ -1,5 +1,6 @@
 # Mermaid tasks
 
+## Mobile OS pie chart
 ```mermaid
 pie title Market Share of Mobile OS
     "Android" : 71
@@ -7,7 +8,7 @@ pie title Market Share of Mobile OS
     "Other" : 2
 ```
 
-
+## Fizzbuzz
 ```mermaid
 flowchart LR
     A[Enter Number] --> B{Divisible by 3 and 5?}
